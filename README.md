@@ -5,6 +5,7 @@ This pack only carries what the Workshop can't:
 
 - `settings/`: controls and mod settings, the server's mod list and the mod-list preset C3
 - `presets/`: the Kata Solo world preset
+- `payload/`: Viewpoint - Barricade Fix (deleted from the Workshop, Barricades3D needs it) as a local mod, plus its ZombieBuddy approval
 - `zbbatch/`: the calibrated ZBBatch cache (`zbbatch.properties`), so Java mods load fast from the first start
 
 Install with PZ Launcher (https://github.com/katachinosekai/pzlauncher/releases/latest):

@@ -1,0 +1,20 @@
+name=Viewpoint - Barricade Fix
+poster=poster.png
+icon=icon.png
+id=ViewpointBarricade
+description=Patch for Project Viewpoint to fix barricade placements and restore their original textures.
+require=\Viewpoint
+author=GamerKreep
+modversion=1.0
+versionMin=42.21
+javaJarFile=media/java/client/ViewpointBarricades.jar
+javaPkgName=vpbarricades
+ZBVersionMin=2.0.0
+
+
+
+
+
+
+
+
