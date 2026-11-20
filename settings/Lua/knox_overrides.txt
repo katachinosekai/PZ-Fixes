@@ -1,0 +1,18 @@
+# Knox Inventory: your own item sizes. One line per item, then exit to the main menu
+# and load your save again (the file is read when the mod's Lua loads).
+#
+#   Base.Katana = 1x5                 cells the item takes (it still turns)
+#   Base.Bag_ALICEpack = grid 8x10    a bag's grid inside, whatever its capacity
+#   Base.Nails = stack 50             how many share one tile
+#   Base.Bag_Schoolbag = grid 5x6 stack 1   (several on one line work too)
+#   Base.Bleach = category mat        the category Sort puts it in: wpn ammo med food
+#                                     tool mat clo info misc
+#   Base.ToiletPaper = sound softpaper   what it sounds like when moved or found: softpaper paper
+#                                     magazine book cardboard cloth leather shoes tin metalsmall metal
+#                                     jewelry keys glass ceramic plastic plasticsoft pills ammo wood
+#                                     stone food fooddry
+#
+# The ID of an item: set show_ids to yes below, and item tooltips show it.
+# Lines starting with # are notes. A bag's grid has 15 rows at most.
+
+show_ids = no

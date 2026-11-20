@@ -1,0 +1,17 @@
+trash/
+received-logs/
+source/ALifeDrivingTweaks/
+source/KnoxGunworksLoadFix/
+source/mod-audit/
+source/RealUSA_ALifeRoads/
+__pycache__/
+*.pyc
+*.bak
+*.bak-*
+*~
+*.der
+*.pem
+source/ALifeCorpseSync/
+source/ALifeLookSync/
+source/ALifeRouteSpeed/
+source/LogWallsLadderFix/

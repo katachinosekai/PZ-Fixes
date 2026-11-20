@@ -1,0 +1,3 @@
+# Knox Inventory preset
+# name = My preset
+# for = all

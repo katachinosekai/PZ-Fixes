@@ -1,0 +1,4 @@
+# Knox Inventory: the item editor's presets - a line each: its file, "on" while in use;
+# "edit": the one the editor writes to. Written by the editor.
+preset = My preset.txt on
+edit = My preset.txt
