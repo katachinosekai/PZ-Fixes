@@ -332,8 +332,6 @@ mods
     mod = NamedSkillVHSTapes,
     mod = ReadingReworked,
     mod = SkullysZombieCollision,
-    mod = ALifeCorpseSync,
-    mod = ALifeLookSync,
     mod = ALifeDrivingTweaks,
     mod = ETOMaskFix,
     mod = FancyHandworkKeybindFix,
