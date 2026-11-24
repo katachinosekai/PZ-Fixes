@@ -1,1 +1,0 @@
-Viewpoint QOL - Nearby Containers Fix 1.0.0. Applies Project Viewpoint QOL's Patch_LootTargetsContainers (LootTargets.aimed) with a read-only return value so Byte Buddy accepts it. Source and offline check: source/ (build.sh).

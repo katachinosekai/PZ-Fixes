@@ -1,7 +1,0 @@
-name=Reactive Sound Events 3D Arrow Fix
-id=ReactiveSE3DFix
-description=Makes the direction arrow of Reactive Sound Events' sound/event marker point to the source relative to Viewpoint's 3D camera (up = where the camera looks) while the 3D view is on. The isometric view is unchanged. No Reactive Sound Events files are changed. <LINE>Requires Reactive Sound Events.
-modversion=1.0.0
-versionMin=42.22
-require=\ReactiveSE
-loadModAfter=\ReactiveSE,\Viewpoint

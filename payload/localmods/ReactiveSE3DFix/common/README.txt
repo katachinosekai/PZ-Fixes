@@ -1,1 +1,0 @@
-Reactive Sound Events 3D Arrow Fix 1.0.0. Under Viewpoint's 3D camera, ReactiveSE_SoundMarker.setAngleFromPoint uses the bearing to the source minus the camera yaw (Viewpoint.Addons.viewState().eye.yaw) instead of the isometric screen rotation; isometric is unchanged.

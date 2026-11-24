@@ -207,7 +207,7 @@ mods
     mod = ProjectDirtroad,
     mod = ProjectViewpointKI5VehiclePartsFix,
     mod = ProjectViewpointQOL,
-    mod = ViewpointQOLLootFix,
+    mod = ViewpointFixes,
     mod = PropaneRefuel,
     mod = PushVehicle,
     mod = PZAttachTwoWeaponsOnBack,
