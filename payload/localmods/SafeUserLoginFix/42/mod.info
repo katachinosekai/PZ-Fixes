@@ -1,0 +1,7 @@
+name=Safe User Login Fix
+id=SafeUserLoginFix
+description=Makes Safe User Login's login protection cheap in big hordes and fits its countdown to Viewpoint's 3D camera. Its zombie handler scanned an ever-growing list and switched every zombie's "useless" flag off and on at each update; this mod runs the same rule with a keyed set per player and changes the flag only when it changes. The protection starts and ends at the same moments and makes the same zombies harmless. Under a Viewpoint 3D camera the countdown is drawn above the player (via Viewpoint x A-LIFE's camera bridge) or hidden; isometric is unchanged. No Safe User Login files are changed. <LINE>Requires Safe User Login.
+modversion=1.0.1
+versionMin=42.22
+require=\SafeUserLogin
+loadModAfter=\SafeUserLogin,\Viewpoint,\ViewpointALife

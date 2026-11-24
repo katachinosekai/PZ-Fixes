@@ -1,0 +1,7 @@
+name=A-Life Viewpoint 3D Fixes
+id=ALifeHeliSpot3DFix
+description=Fixes Project A-Life overlays that only knew the isometric camera, while a Viewpoint 3D camera (first or third person) is active: the flat helicopter spotlight overlay (glow diamonds, faint cone, ground pool) is hidden, as A-Life already does for its tracers and searchlight beams; the support helicopter's fast-rope is drawn in 3D through Viewpoint x A-LIFE's camera bridge (and left out if that is missing); the encounter arrows turn with the 3D camera. The spotlight's light on the ground stays, and the isometric view is unchanged. No A-Life files are changed. <LINE>Requires Project A-Life. Viewpoint x A-LIFE recommended for the 3D rope.
+modversion=1.1.0
+versionMin=42.22
+require=\ProjectALifeNPCs
+loadModAfter=\ProjectALifeNPCs,\Viewpoint,\ViewpointALife
